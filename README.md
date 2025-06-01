@@ -42,7 +42,8 @@ This repository documents a robust, cloud-native web application infrastructure 
 
 The infrastructure follows a multi-tier architecture pattern distributed across two Availability Zones:
 
-![Architecture Diagram](diagram.png)
+!![diagram](https://github.com/user-attachments/assets/eaceb78a-69ed-466d-a39a-884075ab6708)
+
 
 ---
 
